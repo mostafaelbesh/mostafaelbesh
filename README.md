@@ -60,12 +60,3 @@ Senior Frontend Engineer with **5+ years** building enterprise-scale **Angular**
 
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafaelbesh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&hide_rank=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaelbesh&layout=compact&hide_border=true&theme=tokyonight" height="165" />
-</p>
