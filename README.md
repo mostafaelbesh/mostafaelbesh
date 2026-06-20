@@ -66,6 +66,6 @@ Senior Frontend Engineer with **5+ years** building enterprise-scale **Angular**
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafaelbesh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafaelbesh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&hide_rank=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaelbesh&layout=compact&hide_border=true&theme=tokyonight" height="165" />
 </p>
