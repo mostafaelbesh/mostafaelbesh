@@ -6,7 +6,7 @@
 
 ---
 
-Senior Frontend Engineer with **5+ years** building enterprise-scale **Angular** applications for governmental, financial-services, and real-estate technology clients. I specialise in large Angular codebases (**v4 → v19**), **Module-Federated micro-frontends** on NX Monorepo, framework migrations, and modernising legacy UIs — and I'm currently expanding into **AI engineering** (RAG, agentic workflows, MCP).
+Senior Frontend Engineer with **5+ years** building enterprise-scale **Angular** applications for governmental, financial-services, and real-estate technology clients. I specialise in large Angular codebases, **Module-Federated micro-frontends** on NX Monorepo, framework migrations, and modernising legacy UIs — and I'm currently expanding into **AI engineering** (RAG, agentic workflows, MCP).
 
 - 🔭 **Currently** — Senior Frontend Developer @ **EPAM Systems**, building Module-Federated micro-frontends and shipping AI-assisted tooling into production workflows.
 - 🌱 **Exploring** — Retrieval-Augmented Generation, agentic dev workflows, and the Model Context Protocol (MCP).
